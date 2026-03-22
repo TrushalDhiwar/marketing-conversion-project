@@ -1,6 +1,6 @@
 pandas
 numpy
 scikit-learn
-streamlit==1.19.0
+streamlit>=1.32.0
 joblib
-altair<5
+altair>=5
